@@ -2,7 +2,7 @@
   "name": "mobile-template",
   "version": "1.0.0",
   "description": "a template project",
-  "author": "徐潜 <xuq@dw.gdbbk.com>",
+  "author": "whl",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config build/webpack.dev.conf.js",
