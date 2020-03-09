@@ -1,4 +1,4 @@
-# register
+# template
 
 ## Project setup
 ```
