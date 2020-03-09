@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "bootstrap": "^4.1.2",
+    "bootstrap": "^4.3.1",
     "echarts": "^4.1.0",
     "iview": "^3.0.1",
     "jquery": "^3.3.1",
