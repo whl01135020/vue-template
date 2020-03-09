@@ -1,0 +1,161 @@
+html {
+  background: #eee;
+  font-family: 'Microsoft Yahei';
+}
+body {
+  display: block;
+  margin: 0;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+body .no-title-card {
+  margin-top: 15px;
+  background: #fff;
+}
+body .card {
+  background: #fff;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+body .card .card-title {
+  height: 35px;
+  line-height: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 1px solid #eee;
+}
+body .card .card-title .card-title-item {
+  display: inline-block;
+}
+body .card .card-title .title-text {
+  font-size: 16px;
+  color: #000;
+}
+body .card .card-title .title-link {
+  float: right;
+  font-size: 12px;
+  color: #989595;
+}
+body .card .card-body {
+  padding: 15px;
+}
+body .card .card-body .card-rows .rows-item {
+  display: inline-block;
+}
+body .card .card-body .card-rows .card-rows-xls-3 {
+  width: 32%;
+}
+body .card .card-body .card-rows .line-height-12 {
+  line-height: 1.8;
+}
+body .title-lv1 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+}
+body .title-lv1-small {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+}
+body .title-lv2 {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+body .title-lv3 {
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+body .title-lv4 {
+  font-size: 12px;
+  text-align: center;
+}
+body .number-item {
+  display: inline-block;
+}
+body .rate-item {
+  height: 32px;
+  line-height: 32px;
+  vertical-align: top;
+}
+body .rate-height {
+  height: 32px;
+  padding-left: 5px;
+}
+body .number {
+  text-align: center;
+}
+body .rate-up {
+  color: #ff5454;
+}
+body .rate-down {
+  color: #27C24C;
+}
+body .color-red {
+  color: #F05050;
+}
+body .color-grey {
+  color: #8A8A8A;
+}
+body .bg-green {
+  background-color: #27C24C;
+}
+body .bg-red {
+  background-color: #F05050;
+}
+body .st-red {
+  color: #F05050;
+}
+body .st-violet {
+  color: #7266ba;
+}
+body .st-blue {
+  color: #42AFF0;
+}
+body .st-green {
+  color: #27C24C;
+}
+body .data-table table {
+  width: 100%;
+  margin-top: 15px;
+  border-collapse: collapse;
+  /*关键代码*/
+  border: 1px solid #ddd;
+}
+body .data-table table th,
+body .data-table table td {
+  text-align: center;
+  border: 1px solid #ddd;
+  font-size: 12px;
+}
+body .chart-height {
+  height: 200px;
+}
+body .fa {
+  margin-right: 5px;
+}
+body .article .article-img,
+body .article .article-title {
+  display: inline-block;
+}
+body .article .article-img img,
+body .article .article-img {
+  width: 120px;
+}
+body .article .article-title {
+  width: calc(-50%);
+  vertical-align: top;
+}
+body .article .article-title .title-text {
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.4;
+}
+body .content-text {
+  font-size: 14px;
+  line-height: 1.4;
+}
